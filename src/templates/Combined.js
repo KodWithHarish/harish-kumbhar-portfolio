@@ -6,12 +6,12 @@ import MainSection from "./MainSection";
 
 function Combined() {
   return (
-    <div className="p-10 bg-yellow-50">
+    <div className="pl-10 pr-10 pt-3 bg-yellow-50">
       <TopBar />
       <NavBar />
-      <div className="flex mt-5">
-        <SideBar className="w-1/4 m-2 rounded" />
-        <MainSection className="w-3/4 m-2 rounded" />
+      <div className="flex mt-1">
+        <SideBar className="w-1/4 mr-2 rounded h-80" />
+        <MainSection className="w-3/4 ml-2 rounded h-svh" />
       </div>
     </div>
   );

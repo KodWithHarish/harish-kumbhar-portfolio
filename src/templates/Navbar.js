@@ -52,7 +52,7 @@ export default function BasicDemo() {
   return (
     <div className="flex justify-end card w-full rounded">
       <div className="w-[30rem]">
-        <Menubar model={items} />
+        <Menubar model={items} className="bg-yellow-50 " />
       </div>
     </div>
   );
