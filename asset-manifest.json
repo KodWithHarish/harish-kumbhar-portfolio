@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/harish-kumbhar-portfolio/static/css/main.794151b6.css",
-    "main.js": "/harish-kumbhar-portfolio/static/js/main.38983633.js",
+    "main.css": "/harish-kumbhar-portfolio/static/css/main.6607061c.css",
+    "main.js": "/harish-kumbhar-portfolio/static/js/main.91b664ac.js",
     "static/js/453.21de895a.chunk.js": "/harish-kumbhar-portfolio/static/js/453.21de895a.chunk.js",
     "static/media/primeicons.svg": "/harish-kumbhar-portfolio/static/media/primeicons.6ed59f962963a4a73af2.svg",
-    "static/media/logo.png": "/harish-kumbhar-portfolio/static/media/logo.3d59df869f7427c19866.png",
     "static/media/primeicons.eot": "/harish-kumbhar-portfolio/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/harish-kumbhar-portfolio/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/harish-kumbhar-portfolio/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/harish-kumbhar-portfolio/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/harish-kumbhar-portfolio/index.html",
-    "main.794151b6.css.map": "/harish-kumbhar-portfolio/static/css/main.794151b6.css.map",
-    "main.38983633.js.map": "/harish-kumbhar-portfolio/static/js/main.38983633.js.map",
+    "main.6607061c.css.map": "/harish-kumbhar-portfolio/static/css/main.6607061c.css.map",
+    "main.91b664ac.js.map": "/harish-kumbhar-portfolio/static/js/main.91b664ac.js.map",
     "453.21de895a.chunk.js.map": "/harish-kumbhar-portfolio/static/js/453.21de895a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.794151b6.css",
-    "static/js/main.38983633.js"
+    "static/css/main.6607061c.css",
+    "static/js/main.91b664ac.js"
   ]
 }
